@@ -1,9 +1,9 @@
 # Sliding-Carouse
 
-try forking it in your system
+to fork it into your system :- 
 
-run "npm install" on ternimal 
+run "npm install" on terminal 
 
 npm run dev
 
-ypur server is ready on port 5173
+your server is ready on port 5173
