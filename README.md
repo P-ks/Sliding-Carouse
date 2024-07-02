@@ -2,7 +2,7 @@
 
 to fork it into your system:- 
 
-run "npm install" on terminal 
+run "npm install" on terminal
 
 npm run dev
 
