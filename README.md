@@ -1,6 +1,6 @@
 # Sliding-Carouse
 
-to fork it into your system:- 
+to fork it into your system:-
 
 run "npm install" on terminal
 
